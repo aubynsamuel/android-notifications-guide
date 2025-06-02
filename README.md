@@ -3,13 +3,13 @@
 This project serves as a guide to implementing various notification features in Android.
 
 
-## Features
+## It Includes
 
-- Notification Channel Management: Create and manage notification channels.
+- Notification Channel Management
 
-- Permissions: How to handle the necessary permissions needed to display notifications.
+- Permissions request
 
-- Basic Notification Scheduling: Schedule and display a notification at a specific time.
+- Notification Scheduling
 
 - Notification Actions: Add interactive buttons to your notifications that trigger specific actions (e.g., "Accept", "Decline").
 
